@@ -1,0 +1,16 @@
+<body>
+<div id="header" class="container">
+	<div id="logo"><br />
+		<h1><a href="#">
+		<span class="style2">SMK Negeri 2 Salatiga</span>
+		</a></h1>
+  </div>
+	<div id="menu">
+		<ul>
+			<li class="current_page_item"><a href="../index.html">Home</a></li>
+			<li><a href="../sejarah.html">Profil</a></li>
+			<li><a href="../siswa.html">Siswa</a></li>
+			<li><a href="../artikel.php">artikel</a></li>
+			<li><a href="../agenda.html">agenda kelas xii</a></li>
+           </ul>
+	</div>

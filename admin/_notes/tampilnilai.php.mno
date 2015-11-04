@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:siswa_NISN;datatype:string,name:guru_kode;datatype:string,name:SK_kode;datatype:string,name:nilai_angka;datatype:real,name:nilai_huruf;datatype:blob" />
+	<infoitem key="UD_tampilnilai" value="name:siswa_NISN;datatype:string,name:guru_kode;datatype:string,name:SK_kode;datatype:string,name:nilai_angka;datatype:real,name:nilai_huruf;datatype:blob" />
+	<infoitem key="UD_nilai" value="name:siswa_NISN;datatype:string,name:guru_kode;datatype:string,name:SK_kode;datatype:string,name:nilai_angka;datatype:real,name:nilai_huruf;datatype:blob" />
+</info>
